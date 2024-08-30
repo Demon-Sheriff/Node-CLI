@@ -11,6 +11,5 @@ node `index.mjs` count -l  a.txt
 
 ```bash
 node `index.mjs` count -w  a.txt
-
 ```
 ![Alt Text](test1.png)
