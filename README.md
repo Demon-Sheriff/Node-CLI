@@ -6,6 +6,7 @@
 node `index.mjs` count -l  a.txt
 
 ```
+![Alt Text](test2.png)
 
 ### 2. Read the file and fetch word count 
 
@@ -13,3 +14,4 @@ node `index.mjs` count -l  a.txt
 node `index.mjs` count -w  a.txt
 
 ```
+![Alt Text](nodeCLI/test1.png)
