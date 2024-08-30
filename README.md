@@ -4,7 +4,6 @@
 
 ```bash
 node `index.mjs` count -l  a.txt
-
 ```
 ![Alt Text](test2.png)
 
@@ -14,4 +13,4 @@ node `index.mjs` count -l  a.txt
 node `index.mjs` count -w  a.txt
 
 ```
-![Alt Text](nodeCLI/test1.png)
+![Alt Text](test1.png)
